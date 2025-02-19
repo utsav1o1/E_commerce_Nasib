@@ -18,3 +18,4 @@ while ($row = $result->fetch_assoc()) {
 echo "<p>Total: \$$total</p>";
 ?>
 <a href="checkout.php">Checkout</a>
+//this is comment to teach git commit
